@@ -2,7 +2,7 @@
     "name": "ramki34/bitpay-m2",
     "description": "bitpay module for magento 2",
     "type": "magento2-module",
-    "version": "1.0.0",
+    "version": "2.1.2",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
